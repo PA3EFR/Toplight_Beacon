@@ -1,0 +1,13 @@
+Gebruik Ruggy Laptop
+
+Installeer Digispark (Default - 16.5 MHz) van https://raw.githubusercontent.com/digistump/arduino-boards-index/refs/heads/master/package_digistump_index.json (Preference verwijzing)
+
+Zet de schakelaar achterop de rotor klok in de middenstand en sluit alleen de USB-A kabel aan de rotorklok aan. Steek deze nog niet in de laptop.
+
+Start Arduino en pas de Sketch.ino aan naar de nieuwe call (regel 134)
+
+Druk linksboven op het pijltje naar rechts (upload) en wacht tot onderin het schrem de melding komt om binnen 60 seconden het device aan te sluiten. Druk binnen deze 60 seconden de USB-A kabel in de laptop.
+
+Na 4 seconden is de INO-file geupload en klaar voor gebruik. USB-A to USB-A kabel mag nu verwijderd worden.
+
+Check met de schakelaar naar beneden of de call juist wordt geseind. 
