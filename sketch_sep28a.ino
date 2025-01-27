@@ -1,4 +1,7 @@
 //
+// Tested by Michel PE1MR and Erwin PA3EFR (January 2025)
+//
+//
 // Simple Arduino Morse Beacon
 // Written by Mark VandeWettering K6HX
 // Email: k6hx@arrl.net
